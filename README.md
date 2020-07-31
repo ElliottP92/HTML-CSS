@@ -1,4 +1,4 @@
 # HTML/CSS
 
 
-Projects thats constist on HTML/CSS and SASS
+Projects thats consist on HTML/CSS and SASS
